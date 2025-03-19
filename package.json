@@ -1,7 +1,6 @@
 {
   "name": "wetube",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/5onze/wetube.git"
@@ -16,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/5onze/wetube.git/issues"
   },
-  "homepage": "https://github.com/5onze/wetube.git#readme"
+  "homepage": "https://github.com/5onze/wetube.git#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
