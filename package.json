@@ -6,7 +6,7 @@
     "url": "https://github.com/5onze/wetube.git"
   },
   "scripts": {
-    "dev": "nodemon --exec  babel-node index.js"
+    "dev": "nodemon --exec  babel-node src/server.js"
   },
   "author": "Whirlpoolgreen",
   "license": "ISC",
